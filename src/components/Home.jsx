@@ -44,8 +44,8 @@ const Home = () => {
                         <h1>Work Sample You may visit by clicking on the link(If you are unable at visit these link then contact me and let me know , i would turn on the server) :<br></br> </h1>
               <h1><a href="https://healthcarepoint.joyjagatbondu.com">https://healthcarepoint.joyjagatbondu.com</a></h1>
               <h1><a href="https://jobportal.joyjagatbondu.com">https://jobportal.joyjagatbondu.com</a></h1>
-              <h1><a href="https://salon.joyjagatbondu.com">https://salon.joyjagatbondu.com</a></h1>
 
+              <h1><a href="https://salon.joyjagatbondu.com">https://salon.joyjagatbondu.com</a></h1>
 
               
 
