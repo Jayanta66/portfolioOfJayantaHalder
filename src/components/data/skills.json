@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.jfif"
+  },
+  {
+    "title": "Microservices",
+    "imageSrc": "skills/microservices.jfif"
+  },
+  {
+    "title":"ChatGPT for Java Developer(Fundamental)",
+    "imageSrc":"skills/chatgtp.png"
+  },
+   {
+    "title":"OpenAI for Java Developer(Fundamental)",
+    "imageSrc":"skills/chatgtp.png"
+  },
+
+  {
+    "title":"AI for Java Developer(Fundamental)",
+    "imageSrc":"skills/mysql.png"
+  },
+  
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title":"MysQL",
+    "imageSrc":"skills/mysql.png"
+  }
+  ,
+  {
+    "title":"Hibernate",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"VPS",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Putty",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Git",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Github",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"VS code",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Eclipse",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Intellij",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Maven",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Gradle",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Hostinger",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Godaddy",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"JSP",
+    "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Thymeleaf",
+    "imageSrc":"skills/mysql.png"
+  }
+]

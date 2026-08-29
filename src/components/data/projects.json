@@ -1,0 +1,136 @@
+[
+
+      {
+    "key": 1,
+    "title": "Health Care Full Stack Web App for booking a doctor appointment.",
+    "imageSrc1": "./assets/projects/healthcare/1.png",
+    "imageSrc2": "./assets/projects/healthcare/2.png",
+    "imageSrc3": "./assets/projects/healthcare/3.png",
+    "imageSrc4": "./assets/projects/healthcare/4.png",
+    "imageSrc5": "./assets/projects/healthcare/5.png",
+    "imageSrc6": "./assets/projects/healthcare/6.png",
+    "imageSrc7": "./assets/projects/healthcare/7.png",
+    "imageSrc8": "./assets/projects/healthcare/8.png",
+    "imageSrc9": "./assets/projects/healthcare/9.png",
+    "imageSrc10": "./assets/projects/healthcare/10.png",
+    "imageSrc11": "./assets/projects/healthcare/11.png",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , Thymeleaf, react.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+    {
+    "key": 2,
+    "title": "Job Protal Full Stack Web App",
+    "imageSrc1": "./assets/projects/jobportal/1.png",
+    "imageSrc2": "./assets/projects/jobportal/2.png",
+    "imageSrc3": "./assets/projects/jobportal/3.png",
+    "imageSrc4": "./assets/projects/jobportal/4.png",
+    "imageSrc5": "./assets/projects/jobportal/5.png",
+    "imageSrc6": "./assets/projects/jobportal/6.png",
+    "imageSrc7": "./assets/projects/jobportal/7.png",
+    "imageSrc8": "./assets/projects/jobportal/8.png",
+    "imageSrc9": "./assets/projects/jobportal/9.png",
+    "imageSrc10": "./assets/projects/jobportal/10.png",
+    "imageSrc11": "./assets/projects/jobportal/11.png",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , Thymeleaf.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+      {
+    "key": 3,
+    "title": "Ecommerce Full Stack Web App",
+    "imageSrc1": "./assets/projects/ecommerce/1.png",
+    "imageSrc2": "./assets/projects/ecommerce/2.png",
+    "imageSrc3": "./assets/projects/ecommerce/3.png",
+    "imageSrc4": "./assets/projects/ecommerce/4.png",
+    "imageSrc5": "./assets/projects/ecommerce/5.png",
+    "imageSrc6": "./assets/projects/ecommerce/6.png",
+    "imageSrc7": "./assets/projects/ecommerce/7.png",
+    "imageSrc8": "./assets/projects/ecommerce/8.png",
+    "imageSrc9": "./assets/projects/ecommerce/9.png",
+    "imageSrc10": "./assets/projects/ecommerce/10.png",
+    "imageSrc11": "./assets/projects/ecommerce/11.png",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , React-Vite, Stripe.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+    {
+    "key": 4,
+    "title": "Ecommerce Full Stack Web App",
+    "imageSrc1": "./assets/projects/newecom/1.jpeg",
+    "imageSrc2": "./assets/projects/newecom/2.jpeg",
+    "imageSrc3": "./assets/projects/newecom/3.jpeg",
+    "imageSrc4": "./assets/projects/newecom/4.jpeg",
+    "imageSrc5": "./assets/projects/newecom/5.jpeg",
+    "imageSrc6": "./assets/projects/newecom/6.jpeg",
+    "imageSrc7": "./assets/projects/newecom/7.jpeg",
+    "imageSrc8": "./assets/projects/newecom/8.jpeg",
+    "imageSrc9": "./assets/projects/newecom/9.jpeg",
+    "imageSrc10": "./assets/projects/newecom/10.jpeg",
+    "imageSrc11": "./assets/projects/newecom/11.jpeg",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , React.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },{
+    "key": 5,
+    "title": "Ecommerce Full Stack Web App",
+    "imageSrc1": "./assets/projects/newcrud/1.jpeg",
+    "imageSrc2": "./assets/projects/newcrud/2.jpeg",
+    "imageSrc3": "./assets/projects/newcrud/3.jpeg",
+    "imageSrc4": "./assets/projects/newcrud/4.jpeg",
+    "imageSrc5": "./assets/projects/newcrud/5.jpeg",
+    "imageSrc6": "./assets/projects/newcrud/6.jpeg",
+    "imageSrc7": "./assets/projects/newcrud/7.jpeg",
+    "imageSrc8": "./assets/projects/newcrud/8.jpeg",
+    "imageSrc9": "./assets/projects/newcrud/9.jpeg",
+    "imageSrc10": "./assets/projects/newcrud/10.jpeg",
+    "imageSrc11": "./assets/projects/newcrud/11.jpeg",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , React.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+  {
+    "key": 6,
+    "title": "Rest Api CRUD app",
+    "imageSrc1": "./assets/projects/springpractice/screenshot1.png",
+    "imageSrc2": "./assets/projects/springpractice/screenshot2.png",
+    "imageSrc3": "./assets/projects/springpractice/screenshot3.png",
+    "imageSrc4": "./assets/projects/springpractice/screenshot4.png",
+    "imageSrc5": "./assets/projects/springpractice/screenshot5.png",
+    "imageSrc6": "./assets/projects/springpractice/screenshot6.png",
+    "imageSrc7": "./assets/projects/springpractice/screenshot7.png",
+    "imageSrc8": "./assets/projects/springpractice/screenshot8.png",
+    "imageSrc9": "./assets/projects/springpractice/screenshot9.png",
+    "imageSrc10": "./assets/projects/springpractice/screenshot10.png",
+    "imageSrc11": "./assets/projects/springpractice/screenshot11.png",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok .",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+  {
+    "key": 7,
+    "title": "Full Stack WEB App",
+    "imageSrc1": "./assets/projects/liveweb/screenshot.png",
+    "imageSrc2": "./assets/projects/liveweb/screenshot2.png",
+    "imageSrc3": "./assets/projects/liveweb/screenshot3.png",
+        "imageSrc4": "./assets/projects/liveweb/screenshot5.png",
+    "imageSrc5": "./assets/projects/liveweb/screenshot5.png",
+        "imageSrc6": "./assets/projects/liveweb/screenshot5.png",
+    "imageSrc7": "./assets/projects/liveweb/screenshot5.png",
+    "imageSrc8": "./assets/projects/liveweb/screenshot5.png",
+    "imageSrc9": "./assets/projects/liveweb/screenshot5.png",
+    "imageSrc10": "./assets/projects/liveweb/screenshot5.png",
+    "imageSrc11": "./assets/projects/liveweb/screenshot5.png",
+
+    "description": "This is a project made with complete java , spring boot, mysql, Devtools, thymeleaf, Spring Sercurity",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/liveweb.git"
+  }
+
+]
