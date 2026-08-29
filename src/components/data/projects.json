@@ -1,7 +1,27 @@
 [
 
-      {
+        {
     "key": 1,
+    "title": "Salon Booking Full Stack Web App for booking a Salon appointment.",
+    "imageSrc1": "./assets/projects/salon/1.png",
+    "imageSrc2": "./assets/projects/salon/2.png",
+    "imageSrc3": "./assets/projects/salon/3.png",
+    "imageSrc4": "./assets/projects/salon/4.png",
+    "imageSrc5": "./assets/projects/salon/5.png",
+    "imageSrc6": "./assets/projects/salon/6.png",
+    "imageSrc7": "./assets/projects/salon/7.png",
+    "imageSrc8": "./assets/projects/salon/8.png",
+    "imageSrc9": "./assets/projects/salon/9.png",
+    "imageSrc10": "./assets/projects/salon/10.png",
+    "imageSrc11": "./assets/projects/salon/11.png",
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+
+      {
+    "key": 2,
     "title": "Health Care Full Stack Web App for booking a doctor appointment.",
     "imageSrc1": "./assets/projects/healthcare/1.png",
     "imageSrc2": "./assets/projects/healthcare/2.png",
@@ -20,7 +40,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
     {
-    "key": 2,
+    "key": 3,
     "title": "Job Protal Full Stack Web App",
     "imageSrc1": "./assets/projects/jobportal/1.png",
     "imageSrc2": "./assets/projects/jobportal/2.png",
@@ -39,7 +59,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
       {
-    "key": 3,
+    "key": 4,
     "title": "Ecommerce Full Stack Web App",
     "imageSrc1": "./assets/projects/ecommerce/1.png",
     "imageSrc2": "./assets/projects/ecommerce/2.png",
@@ -58,7 +78,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
     {
-    "key": 4,
+    "key": 5,
     "title": "Ecommerce Full Stack Web App",
     "imageSrc1": "./assets/projects/newecom/1.jpeg",
     "imageSrc2": "./assets/projects/newecom/2.jpeg",
@@ -76,7 +96,7 @@
     "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },{
-    "key": 5,
+    "key": 6,
     "title": "Ecommerce Full Stack Web App",
     "imageSrc1": "./assets/projects/newcrud/1.jpeg",
     "imageSrc2": "./assets/projects/newcrud/2.jpeg",
@@ -95,7 +115,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
   {
-    "key": 6,
+    "key": 7,
     "title": "Rest Api CRUD app",
     "imageSrc1": "./assets/projects/springpractice/screenshot1.png",
     "imageSrc2": "./assets/projects/springpractice/screenshot2.png",
@@ -114,7 +134,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
   {
-    "key": 7,
+    "key": 8,
     "title": "Full Stack WEB App",
     "imageSrc1": "./assets/projects/liveweb/screenshot.png",
     "imageSrc2": "./assets/projects/liveweb/screenshot2.png",
