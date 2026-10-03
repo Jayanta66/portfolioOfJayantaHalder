@@ -2,6 +2,37 @@
  {
     "key": 1,
     "title": "Ecommerce Full Stack Web App for buy a product online.",
+
+
+    "imageSrc1": "./assets/shop/1.png",
+    "imageSrc2": "./assets/shop/2.png",
+    "imageSrc3": "./assets/shop/3.png",
+    "imageSrc4": "./assets/shop/4.png",
+    "imageSrc5": "./assets/shop/5.png",
+    "imageSrc6": "./assets/shop/6.png",
+    "imageSrc7": "./assets/shop/7.png",
+    "imageSrc8": "./assets/shop/8.png",
+    "imageSrc9": "./assets/shop/9.png",
+    "imageSrc10": "./assets/shop/10.png",
+    "imageSrc11": "./assets/shop/11.png",
+
+
+
+
+
+
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+   {
+    "key": 2,
+    "title": "Ecommerce Full Stack Web App for buy a product online.",    
+
+
+
+
     "imageSrc1": "./assets/shop2/1.png",
     "imageSrc2": "./assets/shop2/2.png",
     "imageSrc3": "./assets/shop2/3.png",
@@ -17,20 +48,6 @@
 
 
 
-    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
-    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
-    "source": "https://github.com/Jayanta66/springBootPractice.git"
-  },
-   {
-    "key": 2,
-    "title": "Ecommerce Full Stack Web App for buy a product online.",    
-    "imageSrc1": "./assets/shop3/1.png",
-    "imageSrc2": "./assets/shop3/2.png",
-    "imageSrc3": "./assets/shop3/3.png",
-    "imageSrc4": "./assets/shop3/4.png",
-    "imageSrc5": "./assets/shop3/5.png",
-    "imageSrc6": "./assets/shop3/6.png",
-    "imageSrc7": "./assets/shop3/7.png",
 
 
 
@@ -43,17 +60,14 @@
     "key": 3,
     "title": "Ecommerce Full Stack Web App for buy a product online.",
 
-    "imageSrc1": "./assets/shop/1.png",
-    "imageSrc2": "./assets/shop/2.png",
-    "imageSrc3": "./assets/shop/3.png",
-    "imageSrc4": "./assets/shop/4.png",
-    "imageSrc5": "./assets/shop/5.png",
-    "imageSrc6": "./assets/shop/6.png",
-    "imageSrc7": "./assets/shop/7.png",
-    "imageSrc8": "./assets/shop/8.png",
-    "imageSrc9": "./assets/shop/9.png",
-    "imageSrc10": "./assets/shop/10.png",
-    "imageSrc11": "./assets/shop/11.png",
+
+    "imageSrc1": "./assets/shop3/1.png",
+    "imageSrc2": "./assets/shop3/2.png",
+    "imageSrc3": "./assets/shop3/3.png",
+    "imageSrc4": "./assets/shop3/4.png",
+    "imageSrc5": "./assets/shop3/5.png",
+    "imageSrc6": "./assets/shop3/6.png",
+    "imageSrc7": "./assets/shop3/7.png",
 
 
 
