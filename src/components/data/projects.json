@@ -2,6 +2,47 @@
  {
     "key": 1,
     "title": "Ecommerce Full Stack Web App for buy a product online.",
+    "imageSrc1": "./assets/shop2/1.png",
+    "imageSrc2": "./assets/shop2/2.png",
+    "imageSrc3": "./assets/shop2/3.png",
+    "imageSrc4": "./assets/shop2/4.png",
+    "imageSrc5": "./assets/shop2/5.png",
+    "imageSrc6": "./assets/shop2/6.png",
+    "imageSrc7": "./assets/shop2/7.png",
+    "imageSrc8": "./assets/shop2/8.png",
+    "imageSrc9": "./assets/shop2/9.png",
+    "imageSrc10": "./assets/shop2/10.png",
+    "imageSrc11": "./assets/shop2/11.png",
+
+
+
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+   {
+    "key": 2,
+    "title": "Ecommerce Full Stack Web App for buy a product online.",    
+    "imageSrc1": "./assets/shop3/1.png",
+    "imageSrc2": "./assets/shop3/2.png",
+    "imageSrc3": "./assets/shop3/3.png",
+    "imageSrc4": "./assets/shop3/4.png",
+    "imageSrc5": "./assets/shop3/5.png",
+    "imageSrc6": "./assets/shop3/6.png",
+    "imageSrc7": "./assets/shop3/7.png",
+
+
+
+
+    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
+    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
+    "source": "https://github.com/Jayanta66/springBootPractice.git"
+  },
+        {
+    "key": 3,
+    "title": "Ecommerce Full Stack Web App for buy a product online.",
+
     "imageSrc1": "./assets/shop/1.png",
     "imageSrc2": "./assets/shop/2.png",
     "imageSrc3": "./assets/shop/3.png",
@@ -14,44 +55,6 @@
     "imageSrc10": "./assets/shop/10.png",
     "imageSrc11": "./assets/shop/11.png",
 
-
-
-
-    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
-    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
-    "source": "https://github.com/Jayanta66/springBootPractice.git"
-  },
-   {
-    "key": 2,
-    "title": "Ecommerce Full Stack Web App for buy a product online.",    
-    "imageSrc12": ".assets/shop/12.png",
-    "imageSrc13": ".assets/shop/13.png",
-    "imageSrc14": ".assets/shop/14.png",
-    "imageSrc15": ".assets/shop/15.png",
-    "imageSrc16": ".assets/shop/16.png",
-    "imageSrc17": ".assets/shop/17.png",
-    "imageSrc18": ".assets/shop/18.png",
-    "imageSrc19": ".assets/shop/19.png",
-    "imageSrc20": ".assets/shop/20.png",
-    "imageSrc21": ".assets/shop/21.png",
-    "imageSrc22": ".assets/shop/22.png",
-
-
-    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
-    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
-    "source": "https://github.com/Jayanta66/springBootPractice.git"
-  },
-        {
-    "key": 3,
-    "title": "Ecommerce Full Stack Web App for buy a product online.",
-
-    "imageSrc23": ".assets/shop/23.png",
-    "imageSrc24": ".assets/shop/24.png",
-    "imageSrc25": ".assets/shop/25.png",
-    "imageSrc26": ".assets/shop/26.png",
-    "imageSrc27": ".assets/shop/27.png",
-    "imageSrc28": ".assets/shop/28.png",
-    "imageSrc29": ".assets/shop/29.png",
 
 
     "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
