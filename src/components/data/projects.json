@@ -1,7 +1,7 @@
 [
         {
     "key": 1,
-    "title": "Ecommerce Full Stack Web App for buy a product online.",
+    "title": "Shop now Ecommerce Full Stack Web App for buy a product online.",
     "imageSrc1": "./assets/shop/1.png",
     "imageSrc2": "./assets/shop/2.png",
     "imageSrc3": "./assets/shop/3.png",
@@ -13,6 +13,8 @@
     "imageSrc9": "./assets/shop/9.png",
     "imageSrc10": "./assets/shop/10.png",
     "imageSrc11": "./assets/shop/11.png",
+
+
     "imageSrc12": ".assets/shop/12.png",
     "imageSrc13": ".assets/shop/13.png",
     "imageSrc14": ".assets/shop/14.png",
