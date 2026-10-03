@@ -201,6 +201,438 @@ const Projects = () => {
                   </div>
 
 
+////////////////////////////////
+
+
+
+
+
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc12}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc13}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc14}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc15}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc16}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc17}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc18}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc19}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc20}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc21}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc22}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc23}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc24}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc25}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc26}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc27}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc28}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+                  <div className="img d-flex justify-content-center align-content-center p-3">
+                    <img
+                      src={data.imageSrc29}
+                      className="card-img-top"
+                      alt="..."
+                      style={{
+                        width: "1200px",
+                        height: "800px",
+                        border: "2px solid yellow",
+                        borderRadius: "10px",
+                      }}
+                    />
+                  </div>
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+
+
+
+                  
+
+
+
                   <div className="card-body text-center">
                     <h5 className="card-title">{data.title}</h5>
                     <p className="card-text">{data.description}</p>
@@ -217,254 +649,12 @@ const Projects = () => {
                   </div>
 
 
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
 
-
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
+       
 
 
                   
 
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
-
-                                    <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
-                    <p className="card-text">{data.description}</p>
-                     <a href={data.demo} className="btn btn-danger">
-                      YouTube Demo
-                    </a>
-                    <a href="Ecommerceprojectreact" className="btn btn-primary mx-3">
-                      Details
-                    </a>
-                    
-                    <a href={data.source} className="btn btn-warning">
-                      Code
-                    </a>
-                  </div>
-
-
-                  
 
 
                 </div>
