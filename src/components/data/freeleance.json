@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "organisation": "Project from religioner",
+    "location": "Kolkata, India",
+    "startDate":"12 Dec 2025",
+    "endDate":"Currently Running",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/wipro.png"
+  },
+
+  {
+    "id": 2,
+    "role": "Software Engineer",
+    "organisation": "Local NGO",
+    "location": "Kolkata, India",
+        "startDate":"29 Dec 2024",
+    "endDate":"07 Jul 2025",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/ADA.jfif"
+  },
+
+  {
+    "id": 3,
+    "role": "Software Engineer",
+    "organisation": "MUVUS",
+    "location": "London",
+        "startDate":"22 Jul 2024",
+    "endDate":"31 Jul 2024",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/ADA.jfif"
+  }
+
+]

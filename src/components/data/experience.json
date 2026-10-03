@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "organisation": "Wipro",
+    "location": "Bengaluru, India",
+    "startDate":"22.Nov.2021",
+    "endDate":"18.Jan.2024",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/wipro.png"
+  },
+
+  {
+    "id": 2,
+    "role": "Software Engineer",
+    "organisation": "ADA Software",
+    "location": "Kolkata, India",
+        "startDate":"01.Feb.Nov.2021",
+    "endDate":"30.Sep.2024",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/ADA.jfif"
+  }
+
+]
