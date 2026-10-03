@@ -165,11 +165,7 @@ const Projects = () => {
                     />
                   </div>
 
-
-
-
-                  
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+                  <div className="img d-flex justify-content-center align-content-center p-3">
                     <img
                       src={data.imageSrc10}
                       className="card-img-top"
@@ -183,9 +179,6 @@ const Projects = () => {
                     />
                   </div>
 
-
-
-                  
                   <div className="img d-flex justify-content-center align-content-center p-3">
                     <img
                       src={data.imageSrc11}
