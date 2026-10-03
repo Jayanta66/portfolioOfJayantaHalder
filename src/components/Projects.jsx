@@ -201,6 +201,7 @@ const Projects = () => {
                   </div>
 
 
+{/* 
 
                   <div className="img d-flex justify-content-center align-content-center p-3">
                     <img
@@ -619,7 +620,7 @@ const Projects = () => {
 
 
 
-
+*/}
 
                   
 
