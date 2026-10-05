@@ -157,26 +157,8 @@
     "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
-    {
+   {
     "key": 8,
-    "title": "Ecommerce Full Stack Web App",
-    "imageSrc1": "./assets/projects/newecom/1.jpeg",
-    "imageSrc2": "./assets/projects/newecom/2.jpeg",
-    "imageSrc3": "./assets/projects/newecom/3.jpeg",
-    "imageSrc4": "./assets/projects/newecom/4.jpeg",
-    "imageSrc5": "./assets/projects/newecom/5.jpeg",
-    "imageSrc6": "./assets/projects/newecom/6.jpeg",
-    "imageSrc7": "./assets/projects/newecom/7.jpeg",
-    "imageSrc8": "./assets/projects/newecom/8.jpeg",
-    "imageSrc9": "./assets/projects/newecom/9.jpeg",
-    "imageSrc10": "./assets/projects/newecom/10.jpeg",
-    "imageSrc11": "./assets/projects/newecom/11.jpeg",
-
-    "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , React.",
-    "demo": "https://www.youtube.com/watch?v=2OXsCGP1vgk",
-    "source": "https://github.com/Jayanta66/springBootPractice.git"
-  },{
-    "key": 9,
     "title": "Ecommerce Full Stack Web App",
     "imageSrc1": "./assets/projects/newcrud/1.jpeg",
     "imageSrc2": "./assets/projects/newcrud/2.jpeg",
@@ -195,7 +177,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
   {
-    "key": 10,
+    "key": 9,
     "title": "Rest Api CRUD app",
     "imageSrc1": "./assets/projects/springpractice/screenshot1.png",
     "imageSrc2": "./assets/projects/springpractice/screenshot2.png",
@@ -214,7 +196,7 @@
     "source": "https://github.com/Jayanta66/springBootPractice.git"
   },
   {
-    "key": 11,
+    "key": 10,
     "title": "Full Stack WEB App",
     "imageSrc1": "./assets/projects/liveweb/screenshot.png",
     "imageSrc2": "./assets/projects/liveweb/screenshot2.png",
