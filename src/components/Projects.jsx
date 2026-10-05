@@ -22,13 +22,13 @@ const Projects = () => {
                   className="card bg-dark text-light"
                   style={{
                     width: "18rem",
-                    border: "1px solid yellow",
+                    border: "0px solid yellow",
                     boxShadow: "5px 5px 10px 10px rgba(101, 175, 10, 0.5)",
                   }}
                   data-aos="flip-right"
                   data-aos-duration="1000"
                 >
-                  <div className="img d-flex justify-content-center align-content-center p-3">
+                  <div className="img d-flex justify-content-center align-content-center">
                     <img 
                       src={data.imageSrc1}
                       className="card-img-top"
@@ -36,14 +36,14 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px"
+                        border: "0px solid yellow",
+                        borderRadius: "0px"
                         
                       }}
                     />
                   </div>
                   
-                  <div className="img d-flex justify-content-center align-content-center p-3" >
+                  <div className="img d-flex justify-content-center align-content-center" >
                     <img 
                       src={data.imageSrc2}
                       className="card-img-top"
@@ -51,13 +51,13 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "0px",
                       }}
                     />
                   </div>
 
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc3}
                       className="card-img-top"
@@ -65,13 +65,14 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc4}
                       className="card-img-top"
@@ -79,14 +80,15 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
 
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+                   
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc5}
                       className="card-img-top"
@@ -94,14 +96,15 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
 
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc6}
                       className="card-img-top"
@@ -109,15 +112,15 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
 
-                  
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc7}
                       className="card-img-top"
@@ -125,16 +128,16 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
 
 
-                  
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc8}
                       className="card-img-top"
@@ -142,16 +145,16 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
 
-
                   
-                  <div className="img d-flex justify-content-center align-content-center p-3">
+
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc9}
                       className="card-img-top"
@@ -159,8 +162,8 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
@@ -169,7 +172,8 @@ const Projects = () => {
 
 
                   
-                                    <div className="img d-flex justify-content-center align-content-center p-3">
+
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc10}
                       className="card-img-top"
@@ -177,16 +181,15 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
 
 
 
-                  
-                  <div className="img d-flex justify-content-center align-content-center p-3">
+                                    <div className="img d-flex justify-content-center align-content-center">
                     <img
                       src={data.imageSrc11}
                       className="card-img-top"
@@ -194,11 +197,14 @@ const Projects = () => {
                       style={{
                         width: "1200px",
                         height: "800px",
-                        border: "2px solid yellow",
-                        borderRadius: "10px",
+                        border: "0px solid yellow",
+                        borderRadius: "px",
                       }}
                     />
                   </div>
+
+
+                  
 
 
 {/* 
