@@ -68,7 +68,10 @@
     "imageSrc5": "./assets/shop/shop3/5.png",
     "imageSrc6": "./assets/shop/shop3/6.png",
     "imageSrc7": "./assets/shop/shop3/7.png",
-
+    "imageSrc8": "./assets/shop/shop3/8.png",
+    "imageSrc9": "./assets/shop/shop3/9.png",
+    "imageSrc10": "./assets/shop/shop3/10.png",
+    "imageSrc11": "./assets/shop/shop3/11.png",
 
 
     "description": "This is a project made with complete Spring Boot , MySQL, JPA, Devtools, lombok , react.",
