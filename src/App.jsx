@@ -8,8 +8,8 @@ import Contact from './components/Contact'
 import Freelance from "./components/Freelance";
 import Certifications from "./components/Certifications";
 
-import Aos from "aos";
-import "aos/dist/aos.css"
+//import Aos from "aos";
+//import "aos/dist/aos.css"
 
 
 const App = () => {
